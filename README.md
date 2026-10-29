@@ -70,4 +70,10 @@ The dependency audit reported no known vulnerabilities at the time of testing. S
 
 ### Limitations
 
-This assessment was performed in a local development environment. It does not establish that the application is production-ready. Production deployment configuration, log rotation, centralized monitoring, and
+This assessment was performed in a local development environment. It does not establish that the application is production-ready. Production deployment configuration, log rotation, centralized monitoring, and actual session-expiration behavior require further assessment where applicable.
+
+### Conclusion
+
+This project provided practical experience in defensive application security, authentication testing, dependency auditing, remediation, and security documentation as part of my EdVyro internship.
+
+**Disclaimer:** Testing was restricted to my own local application and authorized activities.
